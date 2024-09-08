@@ -35,6 +35,9 @@ Steps:
         Stage 7: Run user acceptance tests on the deployed application.
         Stage 8: Promote the application to a production environment using Argo CD.
 
+        ![image](https://github.com/user-attachments/assets/c347b279-f88a-43a1-acc6-6a8bc422d51b)
+
+
     4. Configure Jenkins pipeline stages:
         Stage 1: Use the Git plugin to check out the source code from the Git repository.
         Stage 2: Use the Maven Integration plugin to build the Java application.
