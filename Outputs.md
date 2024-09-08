@@ -68,8 +68,23 @@
 
 ![image](https://github.com/user-attachments/assets/de9c1d96-2c68-487a-9a6f-7517cb2c46cc)
 
+17) Now click on "Build Now" in Jenkins
 
+![image](https://github.com/user-attachments/assets/1532e5b6-ca11-4909-85ca-d57a81abb47c)
 
+18) Go to Sonarqube and check if there it's passed or not
+
+![image](https://github.com/user-attachments/assets/245a2510-c1d7-4523-b0b0-ce841c634786)
+
+19) Login into Argo-cd application
+
+![image](https://github.com/user-attachments/assets/a07428ed-8c89-43f9-82fe-fa207e46af46)
+
+20) Check is app health is healthy or not and is synced or not
+
+![image](https://github.com/user-attachments/assets/d6077440-a0bf-47ba-b3ed-5b1171b5cf19)
+
+21) 
 
 
 
