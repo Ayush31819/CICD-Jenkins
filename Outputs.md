@@ -83,8 +83,3 @@
 20) Check is app health is healthy or not and is synced or not
 
 ![image](https://github.com/user-attachments/assets/d6077440-a0bf-47ba-b3ed-5b1171b5cf19)
-
-21) 
-
-
-
